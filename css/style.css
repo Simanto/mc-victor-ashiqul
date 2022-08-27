@@ -1,9 +1,23 @@
+#main{
+    max-width: 960px;
+    margin: 0 auto;
+    background-color: #f1f1f1;
+    padding: 50px;
+}
+
+#title{
+    width: 100%;
+    text-align: center;
+}
+
 #image {
     max-width: 100%;
     height: auto;
     display: block;
+    margin: 0 auto;
 }
 #img-div {
     height: 100%;
     width: 100%;
+    display: block;
 }
